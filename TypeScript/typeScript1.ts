@@ -1,0 +1,1 @@
+let money =10;
